@@ -9,7 +9,6 @@
 
 ### What I'm building
 - 🕶️ Face anonymisation tool: offline video face blurring with OpenCV + InsightFace
-- 
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/sjaddya) · sjaddya98@gmail.com
