@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Soumyajeet (Som) 👋
 
-<!--
-**sjaddya/sjaddya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data engineer for regulated, AI-ready data platforms on Azure and Databricks.**
 
-Here are some ideas to get you started:
+- 4 years building production data pipelines for enterprise clients (Accenture, NTT Data), including GxP-regulated pharma data
+- Stack: Azure Data Factory · Databricks · Snowflake · Denodo · Python / PySpark · SQL · Power BI
+- Currently: M.Sc. Applied Computer Science at Deggendorf Institute of Technology, moving to Munich in October 2026
+- Looking for: Werkstudent roles in data engineering (Munich or remote, Germany)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building
+- 🕶️ Face anonymisation tool: offline video face blurring with OpenCV + InsightFace
+- 
+
+### Contact
+[LinkedIn](https://linkedin.com/in/sjaddya) · sjaddya98@gmail.com
