@@ -4,7 +4,7 @@
 
 - 4 years building production data pipelines for enterprise clients (Accenture, NTT Data), including GxP-regulated pharma data
 - Stack: Azure Data Factory · Databricks · Snowflake · Denodo · Python / PySpark · SQL · Power BI
-- Currently: M.Sc. Applied Computer Science at Deggendorf Institute of Technology, moving to Munich in October 2026
+- Currently: M.Sc. Applied Computer Science at Deggendorf Institute of Technology, living in Munich
 - Looking for: Werkstudent roles in data engineering (Munich or remote, Germany)
 
 ### What I'm building
